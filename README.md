@@ -79,7 +79,7 @@ Dataset split:
 ## ▶️ How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/panagiotismisios/Classification-of-Business-Bankruptcy
 
 pip install numpy pandas matplotlib seaborn scikit-learn
 
@@ -88,4 +88,12 @@ python assignment-1.py
 
 ---
 
+## 📈 Key Findings
 
+- kNN achieved the highest accuracy but poor recall on the test set.
+
+- Gaussian Naive Bayes provided the most balanced performance and the best F1-score on test data.
+
+- Logistic Regression and SVC showed sensitivity to class imbalance.
+
+- Performance differences highlight the importance of representative train/test splits.
