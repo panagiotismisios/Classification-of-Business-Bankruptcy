@@ -4,7 +4,7 @@
 ## 📌 Overview
 This repository contains the implementation and analysis of a **binary classification problem** aiming to predict whether a company will **remain healthy or go bankrupt** in the following year.
 
-The project was developed in the context of the **Machine Learning** course and compares the performance of **four supervised learning classifiers** using real financial data from Greek companies (2006–2009).
+The project compares the performance of **four supervised learning classifiers** using real financial data from Greek companies (2006–2009).
 
 ---
 
